@@ -1,11 +1,8 @@
 # git-essentials
-# test
-# anyone
-# anyone
-# done
 
-## deployment notes
+
+## Deployment notes
 just a bunch of words added together to form a sentence
 
 
-## how to use a repo
+## How to use a repo
