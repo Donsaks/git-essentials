@@ -1,3 +1,5 @@
-# git-essentials
+# Git-essentials / Git for Everybody
 
-Some new stuff in here
+> This is a course teaching us how to use everyday Git.
+
+Course learnt by me
